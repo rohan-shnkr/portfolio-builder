@@ -4,6 +4,8 @@ AI Agent to Build your Portfolio Websites
 
 This Streamlit application generates **personal portfolio websites** based on a user's GitHub repositories, interests, and resume. With the help of **OpenAI's GPT models**, the app creates a ready-to-deploy static website that can be hosted on GitHub Pages.
 
+Try it out here: https://genai-portfolio-builder.streamlit.app/
+
 ---
 
 ## 🚀 Features
@@ -45,6 +47,8 @@ pip install -r requirements.txt
 ```
 
 ## ▶️ Running the App
+
+Try out the app here: https://genai-portfolio-builder.streamlit.app/
 
 Run the Streamlit application using the command:
 
