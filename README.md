@@ -100,4 +100,4 @@ Creating a new branch.
 Submitting a pull request.
 
 ## 🧑‍💻 Author
-Developed by Rohan Shankar Srivasstava. For any questions or feedback, feel free to open an issue!
+Developed by Rohan Shankar Srivastava. For any questions or feedback, feel free to open an issue!
